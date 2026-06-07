@@ -1,4 +1,3 @@
-import datetime
 class employee:
     raise_amt = float(input("raise_amt :"))
     def __init__(self,first,last,pay):
