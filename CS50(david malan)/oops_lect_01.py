@@ -15,5 +15,7 @@ class employee :
 emp_1 = employee("corey","chase","50000","jonasburg")
 emp_2 = employee("glenn","maxwell","70000","sydney")
 
-print(emp_2.pay)
+print(f"the salary of employee 2 is ",emp_2.pay)
+print(f"the salary of employee 1 is" ,emp_1.pay)
+
 
